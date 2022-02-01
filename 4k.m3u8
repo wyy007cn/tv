@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:410910169
+#EXTINF:4.000,
+http://livews-tp4k.cctv.cn/live/4K0219.stream/1-410910169.ts
+#EXTINF:4.000,
+http://livews-tp4k.cctv.cn/live/4K0219.stream/1-410910170.ts
+#EXTINF:4.000,
+http://livews-tp4k.cctv.cn/live/4K0219.stream/1-410910171.ts
